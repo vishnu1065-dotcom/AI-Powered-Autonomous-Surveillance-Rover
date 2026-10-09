@@ -6,8 +6,8 @@
 // WIFI  (ESP32 and Raspberry Pi MUST be on the same WiFi)
 // ======================================================
 
-const char* WIFI_SSID     = "INKER_ROBOTICS.....!!!!!";
-const char* WIFI_PASSWORD = "Inker.Robotics@2022";
+const char* WIFI_SSID     = "________";
+const char* WIFI_PASSWORD = "__________";
 
 // HTTP server on port 80  (the Raspberry Pi code uses
 // http://ESP32_IP:80/  and  http://ESP32_IP:80/command?cmd=XXXX)
